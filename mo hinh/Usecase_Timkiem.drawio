@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-03-28T07:14:21.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="H1EDZ5axP3r86TIVgc6S" version="24.2.0" type="device">
+  <diagram name="Trang-1" id="IkG9VMqDt0tpbhV_NuVC">
+    <mxGraphModel dx="838" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-1" value="Tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-2" value="Tìm kiếm tình trạng hoạt động" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="114" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-3" value="Tìm kiếm huyện xã" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-4" value="Tìm kiếm cán bộ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="104" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.246;exitY=0.949;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.756;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7uBe0K7sMrUR0-dgzh-9-4" target="7uBe0K7sMrUR0-dgzh-9-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7uBe0K7sMrUR0-dgzh-9-3" target="7uBe0K7sMrUR0-dgzh-9-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.365;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.707;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7uBe0K7sMrUR0-dgzh-9-2" target="7uBe0K7sMrUR0-dgzh-9-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="sourcePoint" />
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-8" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-9" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7uBe0K7sMrUR0-dgzh-9-10" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
